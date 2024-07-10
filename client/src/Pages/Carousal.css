@@ -1,0 +1,31 @@
+.content{
+    color:  #2B2B2B;
+    font-family: "Josefin Sans",sans-serif;
+    font-size: 2.4375 em;
+    width: 35.28vw;
+    
+}
+
+
+.bg-image-vertical {
+    position: relative;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: auto 100%;
+    }
+    
+    @media (min-width: 1025px) {
+    .h-custom-2 {
+    height: 100%;
+    }
+    }
+
+.box{
+    border:1px solid #2B2B2B;
+    
+}
+
+
+
+/* payment sucess */
